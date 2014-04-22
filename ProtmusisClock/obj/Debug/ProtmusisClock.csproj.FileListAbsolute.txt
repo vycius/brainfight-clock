@@ -1,0 +1,12 @@
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\bin\Debug\ProtmusisClock.exe.config
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\bin\Debug\ProtmusisClock.exe
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\bin\Debug\ProtmusisClock.pdb
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.Form1.resources
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.Properties.Resources.resources
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.csproj.GenerateResource.Cache
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.exe
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.pdb
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.csprojResolveAssemblyReference.cache
+c:\users\vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.Settings.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.ComandsPanel.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\Debug\ProtmusisClock.Help.resources

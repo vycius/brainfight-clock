@@ -1,0 +1,7 @@
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\bin\x86\Debug\ProtmusisClock.exe.config
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\x86\Debug\ProtmusisClock.ComandsPanel.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\x86\Debug\ProtmusisClock.Form1.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\x86\Debug\ProtmusisClock.Help.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\x86\Debug\ProtmusisClock.Properties.Resources.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\x86\Debug\ProtmusisClock.Settings.resources
+C:\Users\Vycius\documents\visual studio 2012\Projects\ProtmusisClock\ProtmusisClock\obj\x86\Debug\ProtmusisClock.csproj.GenerateResource.Cache

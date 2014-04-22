@@ -21,10 +21,10 @@ H - paslepia parodo komandas;
 
 S - išrikiuoja komandas taškų mažėjimo veikla;
 
-Nustatymuose galima keisti:
-* laiką skirtą klausimui;
-* nustatti automatinį nuspalvinimą kai komandai pridedamas taškas;
-* įjungti/išjungti garsą (baigiantis klausimui skirtam laikui);
-* įjungti/išjungti automatinį komandų rikiavimą pagal taškus (jei rikiavimas įjungtas paslėpus komandų sąrašą su H klavišu visos komandos bus surikiuotos pagal taškų skaičių mažėjančiai);
+Nustatymuose galima:
+* Keisti laiką skirtą klausimui;
+* Nustatyti automatinį nuspalvinimą kai komandai pridedamas taškas;
+* Įjungti/išjungti garsą (baigiantis klausimui skirtam laikui);
+* Įjungti/išjungti automatinį komandų rikiavimą pagal taškus (jei rikiavimas įjungtas paslėpus komandų sąrašą su H klavišu visos komandos bus surikiuotos pagal taškų skaičių mažėjančiai);
 
 

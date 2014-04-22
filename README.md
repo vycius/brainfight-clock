@@ -14,7 +14,7 @@ Valdymas
 * \- ir skaičiaus klavišų kombinacija - atima tašką komandai kurios numeris buvo paspaustas;
 * S - išrikiuoja komandas taškų mažėjimo veikla;
 
-Nustatymuose galima:
+Nustatymai
 ===================
 * Keisti laiką skirtą klausimui;
 * Nustatyti automatinį nuspalvinimą kai komandai pridedamas taškas;

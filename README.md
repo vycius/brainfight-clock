@@ -1,10 +1,6 @@
 Protmušio laikrodukas
 ===================
-Paprastas laikrodukas protmušiams: laikui, komandų taškams ...
-
-[Atsisiuntimas](https://github.com/vycius/Protmusis-laikrodis/releases/download/1/Clock.zip)
-===================
-
+Paprastas laikrodukas protmušiams: laikui, komandų taškams ... [Atsisiųsti laikroduką](https://github.com/vycius/Protmusis-laikrodis/releases/download/1/Clock.zip)
 Valdymas
 ===================
 Space - paleidžia sustabdo laikrodį;
